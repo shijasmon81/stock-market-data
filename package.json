@@ -1,0 +1,14 @@
+{
+  "name": "stock-market-data",
+  "version": "1.0.0",
+  "description": "A web application that displays stock market data.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
